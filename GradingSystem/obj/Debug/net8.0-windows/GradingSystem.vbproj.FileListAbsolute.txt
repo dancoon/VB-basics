@@ -1,0 +1,17 @@
+C:\Users\danco\Desktop\VB-basics\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.exe
+C:\Users\danco\Desktop\VB-basics\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.deps.json
+C:\Users\danco\Desktop\VB-basics\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.runtimeconfig.json
+C:\Users\danco\Desktop\VB-basics\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.dll
+C:\Users\danco\Desktop\VB-basics\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.pdb
+C:\Users\danco\Desktop\VB-basics\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.GenerateResource.cache
+C:\Users\danco\Desktop\VB-basics\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danco\Desktop\VB-basics\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfoInputs.cache
+C:\Users\danco\Desktop\VB-basics\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfo.vb
+C:\Users\danco\Desktop\VB-basics\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\danco\Desktop\VB-basics\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.sourcelink.json
+C:\Users\danco\Desktop\VB-basics\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.dll
+C:\Users\danco\Desktop\VB-basics\GradingSystem\obj\Debug\net8.0-windows\refint\GradingSystem.dll
+C:\Users\danco\Desktop\VB-basics\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.pdb
+C:\Users\danco\Desktop\VB-basics\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.genruntimeconfig.cache
+C:\Users\danco\Desktop\VB-basics\GradingSystem\obj\Debug\net8.0-windows\ref\GradingSystem.dll
+C:\Users\danco\Desktop\VB-basics\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.Form.resources
